@@ -1,0 +1,4 @@
+State,a,b,Accepting
+q0,"q0,q1",q0,FALSE
+q1,q2,,FALSE
+q2,,,TRUE
